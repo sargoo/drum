@@ -7,4 +7,5 @@
   
 #  Authors:
   ** HTML / CSS --->  Wes Bos. **
-  ** JavaScript ---> sargoo. **
+ 
+ ** JavaScript ---> sargoo. **
