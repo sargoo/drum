@@ -1,5 +1,10 @@
-What is Drum App?
+# What is Drum App?
  
- Drum app is a web page where you can play a virtual drum with your keyborad!
+ ** Drum app is a web page where you can play a virtual drum with your keyborad!!! **
  
-  Are you ready to rock? Let's go !!! ---> https://saargodrum.netlify.app
+  ** Are you ready to rock? Let's go !!! ---> https://saargodrum.netlify.app **
+  
+  
+# _ Authors:
+  ### HTML / CSS --->  Wes Bos.
+  ### JavaScript ---> sargoo.
