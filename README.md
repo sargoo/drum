@@ -5,6 +5,6 @@
   ** Are you ready to rock? Let's go !!! ---> https://saargodrum.netlify.app **
   
   
-# _ Authors:
-  ### HTML / CSS --->  Wes Bos.
-  ### JavaScript ---> sargoo.
+#  _Authors:
+  ** HTML / CSS --->  Wes Bos. **
+  ** JavaScript ---> sargoo. **
